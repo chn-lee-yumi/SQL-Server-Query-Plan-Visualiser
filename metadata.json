@@ -1,0 +1,5 @@
+{
+  "name": "Query Plan Visualizer",
+  "description": "A professional tool for visualizing and analyzing SQL Server Query Execution Plans (ShowPlan XML).",
+  "requestFramePermissions": []
+}
